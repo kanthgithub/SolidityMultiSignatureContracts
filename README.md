@@ -7,3 +7,8 @@
   - https://forum.ethereum.org/discussion/2166/signature-generation-and-verification-in-solidity
   - https://github.com/ethereum/EIPs/issues/191
   
+## One time Signatures:
+
+ - https://cryptoservices.github.io/quantum/2015/12/04/one-time-signatures.html
+ 
+ 
